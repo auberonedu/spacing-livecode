@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #b81818;
 }
 
 .number {
@@ -8,4 +8,11 @@ body {
   text-align: center;
   border-radius: 10px;
   font-weight: bold;
+  margin: 10px 20px 30px 90px;
+  border: 3px green solid;
+  padding: 12px;
+  /*
+  MBPC
+  My busted PC
+  */
 }
